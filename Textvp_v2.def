@@ -1,0 +1,7 @@
+; Textvp_v2.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Textvp_v2"
+DESCRIPTION  'Textvp_v2 Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
